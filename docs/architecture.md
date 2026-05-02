@@ -1,0 +1,1 @@
+Este proyecto implementa una VPC de alta disponibilidad gracias a que estará desplegada en 2 AZs y tendrá subredes, acceso a internet controlado y un despliegue seguro.
