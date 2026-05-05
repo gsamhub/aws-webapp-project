@@ -1,6 +1,6 @@
 # AWS Highly Available Web Architecture (Multi-AZ)
 
-## 🇺🇸 Overview
+## (ENG) Overview
 
 This project demonstrates the design and implementation of a highly available and secure web architecture on AWS, focused on:
 
@@ -19,7 +19,7 @@ The goal is to simulate a production-like environment using AWS best practices f
 
 ---
 
-## 🇪🇸 Descripción
+## (ESP) Descripción
 
 Este proyecto demuestra el diseño e implementación de una arquitectura web altamente disponible y segura en AWS, enfocada en:
 
