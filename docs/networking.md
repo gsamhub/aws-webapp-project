@@ -2,7 +2,7 @@
 
 ---
 
-## 🇺🇸 English
+## ENG
 
 This section explains the networking design implemented in AWS.
 
@@ -43,7 +43,7 @@ Resources are distributed across two Availability Zones to ensure high availabil
 
 ---
 
-## 🇪🇸 Español
+## ESP
 
 Esta sección explica el diseño de red implementado en AWS.
 
