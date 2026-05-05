@@ -1,6 +1,6 @@
 Architecture Overview / Vista de Arquitectura
 
-## 🇺🇸 English
+## ENG
 
 This document describes the overall architecture of the AWS Highly Available Web Architecture project.
 
@@ -25,7 +25,7 @@ The architecture follows a layered approach:
 
 ---
 
-## 🇪🇸 Español
+## ESP
 
 Este documento describe la arquitectura general del proyecto AWS Highly Available Web Architecture.
 
