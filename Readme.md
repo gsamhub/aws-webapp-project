@@ -13,7 +13,7 @@ The goal is to simulate a production-like environment using AWS best practices f
 
 ---
 
-### Architecture Diagram (EN)
+### Architecture Diagram
 
 <img width="1536" height="1024" alt="DiagramaProyectoALBSubnettingENG" src="https://github.com/user-attachments/assets/2cd64d75-0237-4aac-8478-e144342ad82b" />
 
@@ -32,6 +32,6 @@ El objetivo es simular un entorno cercano a producción aplicando buenas prácti
 
 ---
 
-### Diagrama de Arquitectura (ES)
+### Diagrama de Arquitectura
 
 <img width="1536" height="1024" alt="DiagramaProyectoALBSubnetting" src="https://github.com/user-attachments/assets/efcda95a-4103-4780-b1ad-0ee240455c63" />
