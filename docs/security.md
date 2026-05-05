@@ -2,7 +2,7 @@
 
 ---
 
-## 🇺🇸 English
+## ENG
 
 This section describes the security design implemented in the AWS architecture.
 
@@ -53,7 +53,7 @@ The architecture implements multiple security layers:
 
 ---
 
-## 🇪🇸 Español
+## ESP
 
 Esta sección describe el diseño de seguridad implementado en la arquitectura de AWS.
 
