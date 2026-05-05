@@ -98,5 +98,5 @@ Los recursos están distribuidos en dos zonas de disponibilidad para garantizar 
 
 ---
 
-## 🖥️ EC2 Instances across Availability Zones
+## EC2 Instances across Availability Zones
 <img width="1918" height="1031" alt="2InstanciasendiferentesSubRedes" src="https://github.com/user-attachments/assets/19bef8a7-8e19-491c-8d76-2c6f00ce1668" />
